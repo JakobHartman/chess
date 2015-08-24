@@ -1,0 +1,21 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "master chess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jakob hartman",
+  "license": "ISC",
+  "dependencies": {
+    "chessground": "git://github.com/ornicar/chessground.git",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "gulp": "^3.9.0",
+    "html": "0.0.10",
+    "jsdom": "^3.1.2",
+    "swig": "^1.4.2"
+  }
+}
